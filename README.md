@@ -1,1 +1,1 @@
-Undergrad in math, economics and statistics. Python beginner. Interested in data science and actuarial science
+Undergrad in math, economics and statistics. Interested in data science and actuarial science.
